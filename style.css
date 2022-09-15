@@ -412,9 +412,9 @@ section a{
   }
 }
 
-@media(min-width: 1300px){
+@media(min-width: 1440px){
   .box{
-    max-width: 1230px;
+    max-width: 1440px;
     margin-right: auto;
     margin-left: auto;
   }
